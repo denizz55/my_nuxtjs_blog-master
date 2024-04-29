@@ -1,10 +1,9 @@
 <template>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
       <nuxt-link class="navbar-brand" to="/">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="30" height="30" alt="logo">
       </nuxt-link>
       <nuxt-link class="navbar-brand" to="/">
-        <img src="https://nuxtjs.org/logos/nuxt-square-white.svg" width="30" height="30" alt="logo">
+        <img src="https://raw.githubusercontent.com/denizz55/kursovaya/main/Rabota/clock/static/img/logo.png" width="30" height="30" alt="logo">
       </nuxt-link>
       <button class="navbar-toggler" type="button" data-toggle="collapse"
               data-target="#navbarSupportedContent"

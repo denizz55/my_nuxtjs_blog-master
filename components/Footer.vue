@@ -4,7 +4,7 @@
       <p class="float-right">
         <a href="#">Наверх</a>
       </p>
-      <span class="text-muted">Агентство по разработке потрясных сайтов на bootstrap, drf и nuxtJS. А это просто наш блог.</span>
+      <span class="text-muted">Телефон: (555) 123-4567 Email: info@watchco.com Адрес: 123 Main Street, Anytown, USA</span>
     </div>
   </footer>
 </template>

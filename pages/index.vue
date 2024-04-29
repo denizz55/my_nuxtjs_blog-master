@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1 class="my-3">Последние записи блога</h1>
+    <h1 class="my-3">Товары</h1>
     <div class="row">
       <div v-for="post in posts" :key="post.slug" class="col-md-4">
           <div class="card mb-4 shadow-sm">
@@ -15,7 +15,7 @@
               </div>
               <div class="d-flex justify-content-between align-items-center">
                 <div class="btn-group">
-                  <nuxt-link :to="`/posts/${post.slug}`" class="btn btn-sm btn-outline-secondary">Подробнее</nuxt-link>
+                  <nuxt-link :to="`/posts/${post.slug}`" class="btn btn-sm btn-outline-secondary">Купить</nuxt-link>
                 </div>
                 <small class="text-muted">{{ post.created_at }}</small>
               </div>
